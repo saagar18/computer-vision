@@ -1,0 +1,40 @@
+Exercise 1: Grayscale Conversion
+Exercise 2: Gaussian Blur
+Exercise 3: Edge Detection (Canny)
+Exercise 4: Histogram Equalization
+Exercise 5: Color Histogram Analysis
+Exercise 6: Erosion
+Exercise 7: Video Speed Control
+Exercise 8: Dilation
+Exercise 9: Image Scaling
+Exercise 10: Image Rotation (90 degrees)
+Exercise 11: 180 Degree Y-axis Rotation (Horizontal Flip)
+Exercise 12: 270 Degree Y-axis Rotation
+Exercise 13: Affine Transformation
+Exercise 14: Perspective Transformation
+Exercise 15: Harris Corner Detection
+Exercise 16: Sobel Edge Detection
+Exercise 17: Image Watermarking
+Exercise 18: ROI (Region of Interest) Copy & Paste
+Exercise 19: Erosion Operation
+Exercise 20: Dilation Operation
+Exercise 21: Morphological Opening
+Exercise 22: Morphological Closing
+Exercise 23: Morphological Top Hat
+Exercise 24: Morphological Black Hat
+Exercise 25: Watch Recognition (Simplified for Colab)
+Exercise 26: Reverse Video
+Exercise 27: Face Detection
+Exercise 28: Vehicle Detection in Video
+Exercise 29: Eye Detection
+Exercise 30: Smile Detection
+Exercise 31: Image Segmentation
+Exercise 32: Create Image with Colored Boxes
+Exercise 33: Create White Rectangle
+Exercise 34: Create Circle Image
+Exercise 35: Add Text to Image
+Exercise 36: Subtract Background Color
+Exercise 37: Subtract Foreground
+Exercise 38: Count Faces
+Exercise 39: Reverse Slow Motion Video
+Exercise 40: Extract Text from Video (OCR)
